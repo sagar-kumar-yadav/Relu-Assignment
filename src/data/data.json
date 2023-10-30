@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Lara Leones",
+    "userName": "@thewallart",
+    "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Read More",
+    "id": 1,
+    "profileIcon": "/src/assets/DaleArts-SignedIn1/pexels-ali-pazani-2613260.png",
+    "image": "/src/assets/DaleArts-SignedIn1/pexels-humphrey-muleba-2045248.png"
+  },
+  {
+    "name": "Thomas J.",
+    "userName": "@thecustomcreater",
+    "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Read More",
+    "id": 1,
+    "profileIcon": "/src/assets/DaleArts-SignedIn1/pexels-imad-clicks-9810659.png",
+    "image": "/src/assets/DaleArts-SignedIn1/pexels-tobias-bjørkli-2236382.png"
+  },
+  {
+    "name": "Thomas J.",
+    "userName": "@thecustomcreater",
+    "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Read More",
+    "id": 1,
+    "profileIcon": "/src/assets/DaleArts-SignedIn1/pexels-imad-clicks-9810659.png",
+    "image": "/src/assets/DaleArts-SignedIn1/pexels-tobias-bjørkli-2236382.png"
+  },
+  {
+    "name": "Thomas J.",
+    "userName": "@thecustomcreater",
+    "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Read More",
+    "id": 1,
+    "profileIcon": "/src/assets/DaleArts-SignedIn1/pexels-imad-clicks-9810659.png",
+    "image": "/src/assets/DaleArts-SignedIn1/pexels-tobias-bjørkli-2236382.png"
+  },
+  {
+    "name": "Thomas J.",
+    "userName": "@thecustomcreater",
+    "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Read More",
+    "id": 1,
+    "profileIcon": "/src/assets/DaleArts-SignedIn1/pexels-imad-clicks-9810659.png",
+    "image": "/src/assets/DaleArts-SignedIn1/pexels-tobias-bjørkli-2236382.png"
+  }
+  
+]

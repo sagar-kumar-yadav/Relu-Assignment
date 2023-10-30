@@ -1,0 +1,34 @@
+[
+    {
+        "menuLogo":"/src/assets/profile_pic/home.png",
+        "menuName":"Home"
+    },
+    {
+        "menuLogo":"/src/assets/profile_pic/notification.png",
+        "menuName":"Notification"
+    },
+    {
+        "menuLogo":"/src/assets/heart.png",
+        "menuName":"Shop"
+    },
+    {
+        "menuLogo":"/src/assets/profile_pic/message.png",
+        "menuName":"Conversation"
+    },
+    {
+        "menuLogo":"/src/assets/message.png",
+        "menuName":"Wallet"
+    },
+    {
+        "menuLogo":"/src/assets/profile_pic/favorite.png",
+        "menuName":"Subscription"
+    },
+    {
+        "menuLogo":"/src/assets/profile_pic/profile.png",
+        "menuName":"My Profile"
+    },
+    {
+        "menuLogo":"/src/assets/profile_pic/setting.png",
+        "menuName":"Settings"
+    }
+]
